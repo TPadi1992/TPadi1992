@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TPadi1992
+- 👋 Hi, I’m Thomas.
 - 👀 I’m interested in ... Learning all kinds of things related to technology from coding to audiovisual elements like sound engineering.
 - 🌱 I’m currently learning ... Python 3
 - 💞️ I’m looking to collaborate on ... Projects related to Python (I'm still a rookie so go easy on me lol)
